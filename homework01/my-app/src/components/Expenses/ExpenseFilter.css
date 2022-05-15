@@ -1,0 +1,18 @@
+.expense-filter__controll {
+    text-align: center;
+}
+
+.label {
+    font-size: 25px;
+    color: #fff;
+}
+
+.expense-filter__controll select {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    background-color: #fff;
+    border: 0;
+    border-radius: 5px;
+}
